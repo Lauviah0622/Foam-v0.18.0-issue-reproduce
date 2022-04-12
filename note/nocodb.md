@@ -1,0 +1,1 @@
+[[note/nocodb.deploy-to-cloud.md]]

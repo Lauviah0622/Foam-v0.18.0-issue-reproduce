@@ -1,0 +1,1 @@
+[[note/dbeaver.ssl-connect.md]]

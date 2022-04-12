@@ -1,0 +1,2 @@
+# ts.concept.narrow.predicate
+

@@ -1,0 +1,163 @@
+{
+  "document": {
+    "id": "doc",
+    "name": "New Document",
+    "version": 15.3,
+    "pages": {
+      "page": {
+        "id": "page",
+        "name": "Page 1",
+        "childIndex": 1,
+        "shapes": {
+          "89ac71b8-071f-4c42-3648-2456b5079f98": {
+            "id": "89ac71b8-071f-4c42-3648-2456b5079f98",
+            "type": "ellipse",
+            "name": "Ellipse",
+            "parentId": "page",
+            "childIndex": 1,
+            "point": [
+              170.04,
+              289.11
+            ],
+            "radius": [
+              57.540000000000006,
+              57.54000000000002
+            ],
+            "rotation": 0,
+            "style": {
+              "color": "black",
+              "size": "small",
+              "isFilled": false,
+              "dash": "draw",
+              "scale": 1
+            },
+            "label": "",
+            "labelPoint": [
+              0.5,
+              0.5
+            ]
+          },
+          "f3909bf0-2a72-420d-1d6e-537956c3fa7b": {
+            "id": "f3909bf0-2a72-420d-1d6e-537956c3fa7b",
+            "type": "text",
+            "name": "Text",
+            "parentId": "page",
+            "childIndex": 2,
+            "point": [
+              167.91,
+              231.16
+            ],
+            "rotation": 0,
+            "text": "Input a",
+            "style": {
+              "color": "black",
+              "size": "small",
+              "isFilled": false,
+              "dash": "draw",
+              "scale": 1,
+              "font": "script",
+              "textAlign": "middle"
+            }
+          },
+          "1070ef20-d35a-4f29-1439-c01b20fb0186": {
+            "id": "1070ef20-d35a-4f29-1439-c01b20fb0186",
+            "type": "ellipse",
+            "name": "Ellipse",
+            "parentId": "page",
+            "childIndex": 2,
+            "point": [
+              475.46,
+              210.95
+            ],
+            "radius": [
+              57.540000000000006,
+              57.54000000000002
+            ],
+            "rotation": 0,
+            "style": {
+              "color": "black",
+              "size": "small",
+              "isFilled": false,
+              "dash": "draw",
+              "scale": 1
+            },
+            "label": "Type A",
+            "labelPoint": [
+              0.5,
+              0.5
+            ]
+          },
+          "1ba2f889-6df3-4b3b-2956-9f8068176863": {
+            "id": "1ba2f889-6df3-4b3b-2956-9f8068176863",
+            "type": "ellipse",
+            "name": "Ellipse",
+            "parentId": "page",
+            "childIndex": 3,
+            "point": [
+              409.89,
+              178.59
+            ],
+            "radius": [
+              179.83999999999995,
+              179.84000000000003
+            ],
+            "rotation": 0,
+            "style": {
+              "color": "black",
+              "size": "small",
+              "isFilled": false,
+              "dash": "draw",
+              "scale": 1
+            },
+            "label": "Type B",
+            "labelPoint": [
+              0.5,
+              0.5
+            ]
+          },
+          "d0fea1cf-2128-49ce-3146-d36bc65409d0": {
+            "id": "d0fea1cf-2128-49ce-3146-d36bc65409d0",
+            "type": "text",
+            "name": "Text",
+            "parentId": "page",
+            "childIndex": 4,
+            "point": [
+              771.91,
+              243.42
+            ],
+            "rotation": 0,
+            "text": "Type A  Can putin Input A\nbut Type B cannot put in TypeB\n \nso Type ",
+            "style": {
+              "color": "black",
+              "size": "small",
+              "isFilled": false,
+              "dash": "draw",
+              "scale": 1,
+              "font": "script",
+              "textAlign": "middle"
+            }
+          }
+        },
+        "bindings": {}
+      }
+    },
+    "pageStates": {
+      "page": {
+        "id": "page",
+        "selectedIds": [
+          "89ac71b8-071f-4c42-3648-2456b5079f98"
+        ],
+        "camera": {
+          "point": [
+            0,
+            0
+          ],
+          "zoom": 1
+        },
+        "editingId": null
+      }
+    },
+    "assets": {}
+  },
+  "assets": {}
+}
